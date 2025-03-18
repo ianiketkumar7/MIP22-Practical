@@ -39,8 +39,8 @@ bash mip22.sh
 4️⃣ **MIP 22 will generate multiple phishing links**, including:  
    - **HTTP URL** (a basic link)  
    - **HTTPS URL** (a secure link with encryption)  
-   - **Server URL** (a direct link to your local server)  
-5️⃣ **Share the generated phishing link** with the target for security testing.  
+   - **Server URL** (a direct link to your local server)
+5️⃣ **Share the generated phishing link** with the target for security testing.
 6️⃣ **If the target enters their credentials, they will be displayed** in your terminal where MIP 22 is running. This helps ethical hackers and cybersecurity professionals understand how phishing attacks work and train users to recognize them.  
 
 ## ⚠️ Troubleshooting (Fixing Common Issues)  
