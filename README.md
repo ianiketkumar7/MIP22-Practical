@@ -37,9 +37,9 @@ bash mip22.sh
 2️⃣ **Choose an option** from the menu. For a simple phishing attack, select Option **1: "Attack Default"**.  
 3️⃣ **Select a tunneling service** to create a link (e.g., Cloudflared). Tunneling services help create a secure link between your system and the target.  
 4️⃣ **MIP 22 will generate multiple phishing links**, including:  
-   - **HTTP URL** (a basic link)  
-   - **HTTPS URL** (a secure link with encryption)  
-   - **Server URL** (a direct link to your local server)      
+   > **HTTP URL** (a basic link)  
+   > **HTTPS URL** (a secure link with encryption)  
+   > **Server URL** (a direct link to your local server)      
 5️⃣ **Share the generated phishing link** with the target for security testing.    
 6️⃣ **If the target enters their credentials, they will be displayed** in your terminal where MIP 22 is running. This helps ethical hackers and cybersecurity professionals understand how phishing attacks work and train users to recognize them.  
 
@@ -59,5 +59,7 @@ bash mip22.sh
 
 ## 📜 License  
 MIP 22 is an open-source tool meant for ethical hacking and security testing. The **user is responsible for any misuse** of the tool. Always follow legal and ethical guidelines while using it.  
+
+---
 
 🛡️ **Stay safe, practice ethical hacking, and contribute to cybersecurity awareness!** 🔒
