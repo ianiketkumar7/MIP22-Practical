@@ -5,22 +5,22 @@ MIP 22 is an **advanced phishing tool** designed for **penetration testing** and
 ⚠️ **Disclaimer**: This tool is for **educational and security research purposes only**. Unauthorized use for malicious intent is strictly prohibited.
 
 ## 📥 Installation on GNU/Linux  
-Run the following commands in the terminal:
-sudo su  
-git clone https://github.com/makdosx/mip22.git  
-chmod -R 777 mip22  
-cd mip22  
-bash mip22.sh  
+Run the following commands in the terminal:  
+> sudo su  
+> git clone https://github.com/makdosx/mip22.git  
+> chmod -R 777 mip22  
+> cd mip22  
+> bash mip22.sh  
 
 ## How to Use
 1️⃣ Launch MIP 22
 bash mip22.sh
 2️⃣ Choose Option 1: "Attack Default"
 3️⃣ Select a Tunneling Service (e.g., Cloudflared)
-4️⃣ The tool will generate multiple phishing URLs:
-HTTP URL
-HTTPS URL
-Server URL
+4️⃣ The tool will generate multiple phishing URLs:  
+   > HTTP URL
+   > HTTPS URL
+   > Server URL
 5️⃣ Share the generated link with the target for testing purposes.
 6️⃣ Captured credentials will be displayed in the terminal where MIP 22 is running.
 
