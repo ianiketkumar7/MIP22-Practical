@@ -12,25 +12,25 @@ Run the following commands in the terminal:
 > cd mip22  
 > bash mip22.sh  
 
-## How to Use
-1️⃣ Launch MIP 22
-bash mip22.sh
-2️⃣ Choose Option 1: "Attack Default"
-3️⃣ Select a Tunneling Service (e.g., Cloudflared)
+## How to Use  
+1️⃣ Launch MIP 22  
+> bash mip22.sh  
+2️⃣ Choose Option 1: "Attack Default"  
+3️⃣ Select a Tunneling Service (e.g., Cloudflared)  
 4️⃣ The tool will generate multiple phishing URLs:  
-   > HTTP URL
-   > HTTPS URL
-   > Server URL
-5️⃣ Share the generated link with the target for testing purposes.
-6️⃣ Captured credentials will be displayed in the terminal where MIP 22 is running.
+   > HTTP URL  
+   > HTTPS URL  
+   > Server URL  
+5️⃣ Share the generated link with the target for testing purposes.  
+6️⃣ Captured credentials will be displayed in the terminal where MIP 22 is running.  
 
-## ⚠️ Troubleshooting
-If Cloudflared does not generate a link, exit the tool and rerun the script.
-Ensure you have stable internet connectivity.
-Run the tool with root privileges (sudo su).
-## 📌 Notes
-✅ Use responsibly – this tool is meant for cybersecurity awareness and ethical hacking.
-✅ Recommended OS: Kali Linux / Parrot OS / Ubuntu
+## ⚠️ Troubleshooting  
+If Cloudflared does not generate a link, exit the tool and rerun the script.  
+Ensure you have stable internet connectivity.  
+Run the tool with root privileges (sudo su).  
+## 📌 Notes  
+✅ Use responsibly – this tool is meant for cybersecurity awareness and ethical hacking.  
+✅ Recommended OS: Kali Linux / Parrot OS / Ubuntu  
 
-📜 License
-MIP 22 is an open-source tool for ethical hacking and security testing. The user is responsible for any misuse.
+## 📜 License  
+MIP 22 is an open-source tool for ethical hacking and security testing. The user is responsible for any misuse.  
